@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">eBus_drive</string>
+    <string name="heading">eBus</string>
+    <string name="first">Enter bus no.</string>
+    <string name="second">Enter Driver Name</string>
+    <string name="button1">OK</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
